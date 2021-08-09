@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CobusGroup S.R.L](https://www.cobusgroup.com/)
 
-- 🌱 I’m currently learning **Typescript, React Native and Games development in HTML5**
+- 🌱 I’m Searching for a job FullStack, MERN Stack preferably or Mobile developments with React Native
 
 - 💬 Ask me about **Anything you want**
 
