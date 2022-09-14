@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
 <h3 align="center">A passionate frontend and Backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [CobusGroup S.R.L](https://www.cobusgroup.com/)
+- 🔭 I’m currently working on [SoulIT S.A](https://www.soulit.io/)
 
 - 🌱 I’m Searching for a job FullStack, MERN Stack preferably or Mobile developments with React Native
 
